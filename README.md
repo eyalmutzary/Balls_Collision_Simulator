@@ -10,6 +10,15 @@ This Python project presents a dynamic and engaging Balls Collision Simulator, c
 
 - Optimization Algorithms: The project integrates optimization algorithms to ensure smooth and efficient simulation, even with a large number of balls.
 
+# Demos
+![](https://github.com/eyalmutzary/Balls_Collision_Simulator/blob/master/1.gif)
+
+![](https://github.com/eyalmutzary/Balls_Collision_Simulator/blob/master/10.gif)
+
+![](https://github.com/eyalmutzary/Balls_Collision_Simulator/blob/master/300.gif)
+
+![](https://github.com/eyalmutzary/Balls_Collision_Simulator/blob/master/no_gravity.gif)
+
 # Getting Started
 Clone the project and run the main.py.
 
