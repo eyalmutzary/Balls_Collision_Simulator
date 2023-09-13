@@ -13,11 +13,11 @@ This Python project presents a dynamic and engaging Balls Collision Simulator, c
 # Getting Started
 Clone the project and run the main.py.
 
-Usage
+# Usage
 Explore the code, tweak the parameters in the globals file, and observe how changes in gravity and friction affect the behavior of the balls.
 
-Acknowledgments
+# Acknowledgments
 This project is the result of a challenging journey in implementing physics simulations from scratch. It showcases the fusion of physics concepts and programming skills.
 
-Contact
+# Contact
 If you have any questions, suggestions, or issues, please feel free to contact me at eyalmu1@gmail.com.
